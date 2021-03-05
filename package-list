@@ -1,0 +1,4 @@
+com.y3technologies.storage.io.minio
+com.y3technologies.storage.io.minio.exception
+com.y3technologies.storage.io.minio.service
+com.y3technologies.storage.io.minio.test.service
